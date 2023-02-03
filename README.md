@@ -1,2 +1,2 @@
 # TitanicMLFromDisaster
-predicción de supervivientes.
+predicción de supervivientes, ejercicio práctico de ML.
